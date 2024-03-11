@@ -13,7 +13,7 @@ if (randomNumber1 > randomNumber2) {
     document.querySelector("h1").innerHTML = "😜 player 1 win";
 }
 else if (randomNumber1 < randomNumber2) {
-    document.querySelector("h1").innerHTML = "😜 player 2 win";
+    document.querySelector("h1").innerHTML = "player 2 win 😜";
 } else {
     document.querySelector("h1").innerHTML = "😫 it's a draw"
 }
